@@ -45,7 +45,7 @@
 //    console.log("would you like a cookie?")
 // else
 //    console.log("Time to bake more cookie.")
-
+ 
 // var brush=true
 // if (brush)
 //    console.log("Your teeth are clean")
@@ -64,11 +64,38 @@
 // if (season=="winter")
 //   {  console.log("Bundle up and stay warm")}
 
-var score=56
-if (score<50)
-{
-    console.log("You need to improve")}
-if (score>50 && score<70)
-   { console.log("Good job")}
-if (score<70)
-    {console.log("Excellent performance")}
+// var score=100
+// if (score<50)
+// {
+//     console.log("You need to improve")}
+// if (score>50 && score<=70)
+//    { console.log("Good job")}
+// if (score>70)
+//     {console.log("Excellent performance")}
+
+// var num=10
+// if (num%2==0)
+// {
+//     console.log("even")
+
+// }
+// else
+// {
+//     console.log("odd")
+// }
+
+// for (count=10;count>=1;count--)
+// {console.log(count)}
+
+// for (count = 1; count <= 10; count++) {
+//     if (count % 2 ==0) {
+//       console.log(count);
+//     }
+//   }
+  
+
+
+// for (count = 1; count <= 10; count++) {
+//     console.log(`2 x ${count} = ${2 * count}`);
+//   }
+  
